@@ -1,4 +1,5 @@
-🍔 Food Ordering System
+# 🍔 Food Ordering System
+
 A comprehensive, web-based Food Ordering System built using PHP, HTML, CSS, JavaScript, and MySQL. This application allows customers to browse menus, add items to a cart, place food orders, and track them, while providing administrators with a robust dashboard to manage dishes, categories, coupons, delivery personnel, and incoming orders.
 
 🚀 Features
